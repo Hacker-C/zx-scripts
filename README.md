@@ -6,6 +6,11 @@ Some scripts for daily use.
 
 ![demo](./.github/imgs/demo1.jpg)
 
+## Dev
+
+- zx: https://github.com/google/zx
+- inquirer: https://github.com/SBoudrias/Inquirer.js
+
 ## Use
 
 
