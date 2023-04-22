@@ -2,6 +2,10 @@
 
 Some scripts for daily use.
 
+- commit.js: Quickly generate a git commit message template.
+
+![demo](./.github/imgs/demo1.jpg)
+
 ## Use
 
 
@@ -23,5 +27,5 @@ function cm {
 }
 ```
 
-
-
+Here we go:
+![demo](./.github/imgs/demo2.jpg)
