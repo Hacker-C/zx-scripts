@@ -17,7 +17,7 @@ Some scripts for daily use.
 Install
 ```bash
 pnpm i
-pnpm add zx -g
+pnpm add zx@7 -g
 ```
 
 Run
